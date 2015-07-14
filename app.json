@@ -5,9 +5,6 @@
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["ink"],
   "success_url": "/setup",
-  "env": {
-    "BUILDPACK_URL": "https://github.com/kr/heroku-buildpack-go.git"
-  },
   "addons": [
     "mongolab"
   ]
